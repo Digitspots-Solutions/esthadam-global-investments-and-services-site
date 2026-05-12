@@ -1,0 +1,49 @@
+{
+  "businessName": "ESTHADAM GLOBAL INVESTMENTS AND SERVICES",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Engineering Excellence in Manufacturing Solutions",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "ESTHADAM GLOBAL INVESTMENTS AND SERVICES\n\nEngineering Excellence in Manufacturing Solutions\n\nYour trusted partner for quality manufacturing and industrial services in Kogi State and beyond. We deliver innovative solutions that drive productivity and growth for businesses across Nigeria.",
+      "imagePrompt": "Professional Nigerian industrial manufacturing facility exterior, modern factory building with clean lines, blue sky background, industrial equipment visible through large windows, well-maintained compound with green landscaping, wide angle architectural photography, professional corporate aesthetic, natural daylight, high quality photorealistic image",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Who We Are\n\nESTHADAM GLOBAL INVESTMENTS AND SERVICES is a dynamic manufacturing company based in Ofu Local Government Area, Kogi State. We are committed to delivering world-class manufacturing solutions that meet the evolving needs of Nigerian businesses and industries.\n\nWith a strategic location in Emewe Ochadamu, we serve clients across Kogi State and throughout Nigeria, providing comprehensive manufacturing services backed by technical expertise and modern equipment. Our team combines local knowledge with international standards to ensure every project meets the highest quality benchmarks.\n\nWe believe in building lasting partnerships with our clients, understanding their unique challenges, and delivering customized solutions that create real value. From concept to completion, ESTHADAM GLOBAL is your reliable partner for manufacturing excellence.",
+      "imagePrompt": "Nigerian manufacturing workers in safety gear collaborating in a modern production facility, diverse team examining blueprints and equipment, bright industrial lighting, organized workshop environment, professional atmosphere, people engaged in quality manufacturing work, photorealistic image showing teamwork and expertise",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Manufacturing Solutions That Drive Your Business Forward\n\nIndustrial Manufacturing\nComplete manufacturing services utilizing advanced production techniques and quality control processes. We handle projects of all scales with precision and efficiency.\n\nCustom Fabrication\nTailored fabrication solutions designed to meet your specific requirements. From prototypes to full production runs, we bring your vision to life with expert craftsmanship.\n\nEquipment Supply & Installation\nProcurement and installation of quality industrial equipment. We source reliable machinery and ensure proper setup for optimal performance.\n\nMaintenance & Technical Support\nComprehensive maintenance services to keep your operations running smoothly. Our technical team provides preventive maintenance and rapid response repairs.\n\nConsulting & Project Management\nExpert guidance for your manufacturing projects. We offer technical consulting, feasibility studies, and complete project management from planning to execution.",
+      "imagePrompt": "Nigerian manufacturing facility showing various production processes, modern industrial equipment in operation, skilled workers at different stations, organized factory floor with safety markings, quality control area visible, bright industrial lighting, wide angle view of active manufacturing operations, professional and clean environment, photorealistic detailed image",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose ESTHADAM GLOBAL",
+      "copy": "Your Manufacturing Partner of Choice\n\nQuality Assurance\nWe maintain rigorous quality standards at every stage of production. Our commitment to excellence ensures you receive products and services that exceed expectations.\n\nLocal Expertise\nDeep understanding of the Nigerian market and local business environment. We navigate challenges and leverage opportunities to deliver solutions that work for you.\n\nTimely Delivery\nWe respect your time and deadlines. Our efficient processes and project management ensure on-time completion without compromising quality.\n\nCompetitive Pricing\nValue-driven pricing that makes quality manufacturing accessible. We optimize costs while maintaining the highest standards of workmanship.\n\nComprehensive Support\nFrom initial consultation to after-sales service, we're with you every step of the way. Our dedicated team ensures smooth project execution and lasting satisfaction.",
+      "imagePrompt": "Professional Nigerian business handshake in modern manufacturing office, confident business people in industrial setting, quality manufactured products displayed in background, bright natural lighting through office windows, corporate professional atmosphere, trust and partnership visual theme, photorealistic image",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to Start Your Manufacturing Project?\n\nContact ESTHADAM GLOBAL INVESTMENTS AND SERVICES today for a consultation. Whether you need manufacturing services, equipment solutions, or technical expertise, our team is ready to help you achieve your business goals.\n\nVisit us at our facility in Ofu, Kogi State, or reach out via phone or WhatsApp. We look forward to partnering with you for manufacturing excellence.\n\nLet's build something great together.",
+      "imagePrompt": "Modern Nigerian business office reception area, welcoming professional environment, comfortable seating area, industrial art on walls, natural light, contemporary office design, professional receptionist desk, Kogi State local context, warm and inviting atmosphere, photorealistic image",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07063047209",
+    "email": "info@esthadamglobal.com",
+    "address": "ADAMA AKPA COMPOUND, EMEWE OCHADAMU, OFU LOCAL GOVERNMENT AREA, KOGI STATE",
+    "whatsapp": "https://wa.me/2347063047209"
+  }
+}
